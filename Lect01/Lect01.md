@@ -47,9 +47,9 @@ Examples\*:
 - `cd TARGET_DIR`: **C**hange working **D**irectory to **TARGET_DIR**
 - `mkdir DIR_NAME`: **M**a**K**e **DIR**ectory, named **DIR_NAME** (under *current working directory* by default)
   - `-p` flag: make **P**arent directory if it does not exist
-- ...
+- ...  
 
-<br>
+
 #### System File Structure
 
 - Linux\*:
@@ -89,7 +89,6 @@ Use the skills you've just learned in this section in coding, when:
   - ...
 
 
-<br>
 #### Git\*
 
 _`git` is a CLI tool-set for version control_  
