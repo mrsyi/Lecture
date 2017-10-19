@@ -78,7 +78,7 @@ Use **U**niform **R**esource **I**dentifier: `file://<PATH_TO_FILE>`
 - Linux: `file:///home/smdsbz/Desktop/ESL.pdf`
 - WinNT: `file://C:\User\smdsbz\Desktop\PEP8%20Style%20Guide.mhtml`
 
-<br>
+
 Use the skills you've just learned in this section in coding, when:
   - some `url_for()` function provided by template renderers, like `Flask` :thumbsup:
   - relative path: starting with the `.` :question:
@@ -96,7 +96,7 @@ _repo is the short term for repository_
 
 ##### 1. Create a new *repository* on [GitHub.com](https://github.com)
 - Initialize your repo with a `README.md`
-  - Put documentations of your project in `README.md`, so other people visiting to your repo will see it
+  - Put documentations of your project in `README.md`, so other people visiting your repo will see it
 - `.gitignore`
   - Your `git` will ignore the files with the suffixes listed in `.gitignore`, so they won't be uploaded to code server, e.g:
     - `.exe`: compiled binaries / executables
