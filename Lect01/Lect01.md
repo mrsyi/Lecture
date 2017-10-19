@@ -67,10 +67,10 @@ Examples\*:
 
 ##### Surfing your file system\*
 
+- the `cd` (**C**hange **D**irectory) command
 - Relative path:
   - `./`: current directory
   - `../`: parent directory
-- `cat` command: read file as text to `STDOUT`, i.e. your CLI black screen
 
 ##### How to open a image using Google Chrome\*
 
@@ -81,13 +81,13 @@ Use **U**niform **R**esource **I**dentifier: `file://<PATH_TO_FILE>`
 
 
 Use the skills you've just learned in this section in coding, when:
+- referencing to a **LOCAL** file resource:
   - some `url_for()` function provided by template renderers, like `Flask` :thumbsup:
   - relative path: starting with the `.` :question:
-  - referencing to a **LOCAL** file resource:
-    - absolute path: starting with `/` (or `[A-Z]:\` on WinNT) :thumbsdown:
-      - Users should **NOT** know details about your server's configuration
-      - It leads to considerable amount of re-coding work when you distribute your service to a server, whose system's file structure is unknown
-  - ...
+  - absolute path: starting with `/` (or `[A-Z]:\` on WinNT) :thumbsdown:
+    - Users should **NOT** know details about your server's configuration
+    - It leads to considerable amount of re-coding work when you distribute your service to a server, whose system's file structure is unknown
+- ...
 
 
 #### Git\*
