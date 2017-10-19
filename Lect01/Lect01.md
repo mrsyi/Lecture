@@ -12,6 +12,7 @@
   - **E**mphasized **C**apitalized **L**etters: Helps you to memorize the terms
   - *Italicized* : Technical terms
   - `code`: Coding terms
+  - star at the end\*: Try 'em out!
   - ~~deleted~~: Deleted lines
 
 
